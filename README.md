@@ -1,8 +1,7 @@
 # BasicCalculator
 Simple calculator for the basic mathematical operations!
 
-
-calculator1.PNG
-calculator2.PNG
-calculator3.PNG
-calculator4.PNG
+![My Image](calculator1.PNG)
+![My Image](calculator2.PNG)
+![My Image](calculator3.PNG)
+![My Image](calculator4.PNG)
